@@ -3,9 +3,6 @@
 ## Objetivo
 Analizar tendencias de ventas por producto, región y sucursal usando Power BI.
 
-## Dataset
-TablasProyecto4
-
 ## Actividades realizadas
 - Limpieza de datos
 - Creación de modelo
@@ -19,4 +16,4 @@ Power Query
 DAX
 
 ## Autor
-Aide + equipo
+Aide Gpe. Muñoz Palacio
