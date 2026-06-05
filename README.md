@@ -9,11 +9,11 @@ Identificar patrones de comportamiento en ventas a lo largo del tiempo, comparar
 ## Contenido del repositorio
 
 ```
-📁 proyecto-powerbi-ventas/
-├── 📊 Proyecto_Aide Muñoz.pbix      # Archivo Power BI (abrir con Power BI Desktop)
-├── 📂 data/
+ proyecto-powerbi-ventas/
+├──  Proyecto_Aide Muñoz.pbix      # Archivo Power BI (abrir con Power BI Desktop)
+├──  data/
 │   └── ventas_dataset.xlsx       # Dataset fuente (Excel)
-└── 📄 README.md
+└──  README.md
 ```
 
 ## Páginas del dashboard
@@ -41,7 +41,7 @@ Identificar patrones de comportamiento en ventas a lo largo del tiempo, comparar
 
 ## Cómo abrir el proyecto
 
-1. Descarga el archivo `ventas_analisis.pbix`
+1. Descarga el archivo `Proyecto_Aide Muñoz.pbix`
 2. Ábrelo con [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (gratuito)
 3. El dataset Excel ya está incluido como fuente de datos local
 
@@ -49,4 +49,3 @@ Identificar patrones de comportamiento en ventas a lo largo del tiempo, comparar
 
 **Aide Guadalupe Muñoz Palacio**
 Estudiante de Ingeniería en Sistemas Computacionales — ITS Saltillo
-[LinkedIn](https://linkedin.com/in/aidemunoz) · [GitHub](https://github.com/AideeM)
